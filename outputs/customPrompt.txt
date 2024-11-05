@@ -1,0 +1,19 @@
+Here's a possible prompt:
+
+"Classify the following email as 'benign' or 'malicious' based on its content and metadata, considering factors such as:
+
+* Sender reputation (is the sender known or verified?)
+* Subject line (is it suspiciously generic or attempting to create urgency?)
+* Email body (are there suspicious keywords or URLs? Does it ask for sensitive information?)
+* Attachment types (are they executable or ZIP files that could potentially contain malware?)
+* URLs (do they point to trusted websites or seem phishing-related?)
+* Language patterns (does the tone seem overly promotional, urgent, or threatening?)
+* Header analysis (is the email's IP address and timestamp suspicious?)
+
+Additionally, consider whether the email is attempting social engineering tactics such as:
+
+* Impersonation (is it pretending to be someone you trust?)
+* Baiting (is it trying to lure you into installing malware or revealing sensitive info?)
+* Pretexting (does it create a false sense of urgency or context to manipulate you?)
+
+Please provide a classification and explain your reasoning."
